@@ -1,2 +1,2 @@
-Questo è il file creato per l'esercizio
- 
+Questo è il file creato per l'esercizio; 
+adesso le modifiche le sto apportando da sourcetree.
